@@ -23,7 +23,7 @@ a{
   -webkit-transform-origin: 65% 40% 0;
 }
 .header-top {
-  background: #424242 none repeat scroll 0 0;
+  background: #FFE033 none repeat scroll 0 0;
   height: 35px;
   line-height: 35px;
 }
@@ -847,7 +847,7 @@ a{
 }
 .bar{
     position: relative;
-    
+
 }
 .bar::after {
   background: #d0cece;
@@ -974,7 +974,7 @@ a{
     text-transform: uppercase;
     border: 1px solid #bfb6b6;
     padding: 5px 10px;
-    
+
 }
 .owl-nav .owl-prev:hover{
     background: #f39c12;
@@ -982,7 +982,7 @@ a{
     color: #fff;
     font-weight: 400;
     font-family: "Roboto",sans-serif;
-    
+
 }
 .owl-nav .owl-next{
     float: right;
@@ -998,7 +998,7 @@ a{
     background: #f39c12;
     border: 1px solid #f39c12;
     color: #fff
-    
+
 }
 .owl-carousel.owl-loaded.owl-drag {
   margin-top: 55px;
@@ -1067,22 +1067,22 @@ a{
   font-weight: 400;
   margin-bottom: 35px;
 }
-ul.commentlist { 
-    float:left; 
-    margin:20px 0px 20px 0px; 
-    padding:0px 0px 20px 0px; 
-    list-style:none; 
-    border-top:0px; 
+ul.commentlist {
+    float:left;
+    margin:20px 0px 20px 0px;
+    padding:0px 0px 20px 0px;
+    list-style:none;
+    border-top:0px;
 }
-ul.commentlist li { 
-    display:block; 
-    float:none; 
-    list-style:none; 
-    border:none; 
-    margin:0px 0px 20px; 
-    padding:0px; 
-    position:relative; 
-    clear:both; 
+ul.commentlist li {
+    display:block;
+    float:none;
+    list-style:none;
+    border:none;
+    margin:0px 0px 20px;
+    padding:0px;
+    position:relative;
+    clear:both;
 }
 ul.commentlist li ul.children {
   border: medium none;
@@ -1092,13 +1092,13 @@ ul.commentlist li ul.children {
   padding: 0;
   width: 100%;
 }
-.comment-details h5{ 
+.comment-details h5{
     font-size: 19px;
     font-weight: 400;
     font-family: "Roboto",sans-serif;
     color: #333333;
 }
-.comment-details h5 span{ 
+.comment-details h5 span{
     font-size: 13px;
     color: #595656
 }
@@ -1107,19 +1107,19 @@ ul.commentlist li ul.children {
     font-family: "Roboto",sans-serif;
     font-size: 14px;
     color: #a29c9c;
-    
+
 }
-		
+
 ul.commentlist li .comment-author img {
   float: left;
   margin: 0 22px 0 0;
   max-height: 88px;
   max-width: 88px;
 }
-ul.commentlist li .author-name { 
-    font-weight:bold; 
-    font-size:16px; 
-    padding-bottom:5px; 
+ul.commentlist li .author-name {
+    font-weight:bold;
+    font-size:16px;
+    padding-bottom:5px;
 }
 ul.commentlist li .author-name a {
   color: #333334;
@@ -1354,10 +1354,10 @@ ul.commentlist li .author-name a {
 }
 
 .product-single:hover i{
-   opacity: 1 
+   opacity: 1
 }
 .product-single:hover .single-overlay{
-   opacity: 1 
+   opacity: 1
 }
 .prodact-s-text > h3 {
   margin: 0;
@@ -1644,7 +1644,7 @@ section.featured {
   font-family: "Roboto",sans-serif;
   font-size: 18px;
   font-weight: 400;
-    
+
 }
 
 
